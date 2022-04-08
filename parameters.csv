@@ -1,0 +1,15 @@
+params,value
+login_account,#your Umooc account
+login_password,#your password 
+Videolink1,http://wljx.gsau.edu.cn/meol/common/script/preview/download_preview.jsp?fileid=3513249&resid=816679&lid=29963
+Videolink2,http://wljx.gsau.edu.cn/meol/common/script/preview/download_preview.jsp?fileid=3513250&resid=816680&lid=29963
+Videolink3,http://wljx.gsau.edu.cn/meol/common/script/preview/download_preview.jsp?fileid=3513253&resid=816698&lid=29963
+contextlearningtime,900
+Firstvideolearningtime,600
+Secvideolearningtime,600
+Thrvideolearningtime,600
+Looplearning,35
+pathgeckodriver,C:\Python310\geckodriver.exe
+Headless,True
+
+
